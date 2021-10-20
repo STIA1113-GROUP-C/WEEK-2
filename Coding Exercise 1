@@ -15,5 +15,5 @@ public class OneDayCampus {
 		System.out.println("7.00pm: Eat dinner");
 		System.out.println("8.00pm: Watch Youtube");
 		System.out.println("9.00pm: Play games");
-		System.out.println("1.00am: Go sleep");
+		System.out.println("1.30am: Go sleep");
 	}
